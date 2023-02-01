@@ -1,6 +1,8 @@
 import java.sql.*;
 import java.util.Scanner;
 
+//database jdbc console project
+
 public class User {
 
 	  static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
