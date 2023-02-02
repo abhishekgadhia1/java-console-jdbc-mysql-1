@@ -2,6 +2,7 @@ import java.sql.*;
 import java.util.Scanner;
 
 //database jdbc console project
+//first console project
 
 public class User {
 
